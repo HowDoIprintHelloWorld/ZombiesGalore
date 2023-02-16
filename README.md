@@ -1,6 +1,8 @@
 # ZombiesGalore
 A simple yet challenging game
 
+<img src="https://github.com/HowDoIprintHelloWorld/ZombiesGalore/blob/master/zombs.png"></img>
+
 
 ## How to play:
 You will spawn immediately. Ghosts will start rapidly approaching you, so 
