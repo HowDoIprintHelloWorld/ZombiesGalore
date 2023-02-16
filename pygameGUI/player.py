@@ -10,7 +10,7 @@ class Player():
 
         self.bullets = []
         self.shootCooldown = 60
-        self.stabCooldown = 300
+        self.stabCooldown = 240
         self.stabDuration = 30
         self.loaded = 6
         self.maxCap = 6
@@ -60,7 +60,7 @@ class Player():
         if not self.mag:
             return
         self.lastReload = 75
-        self.changeLook("herogun")
+        self.changeLook("heroreload")
         self.lookTimer = 150
 
     
